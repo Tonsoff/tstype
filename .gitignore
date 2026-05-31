@@ -67,3 +67,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+# Arch Linux build artifacts
+/pkg/
+/src/
+*.pkg.tar.zst
